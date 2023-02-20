@@ -1,0 +1,2 @@
+#define BossBox_VERSION_MAJOR @BossBox_VERSION_MAJOR@
+#define BossBox_VERSION_MINOR @BossBox_VERSION_MINOR@
